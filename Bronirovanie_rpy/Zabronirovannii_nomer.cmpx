@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1251</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID 5cb4a11c-8d7a-467a-ab1f-d9429123a51a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Zabronirovannii_nomer</_name>
+			<_modifiedTimeWeak type="a">4.23.2020::18:1:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.23.2020::18:33:57</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 2ab898f2-8cda-4e2a-80c8-6fd7480be0fb</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">4.23.2020::18:1:24</weakCGTime>
+			<strongCGTime type="a">4.23.2020::17:36:47</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID afd27076-84aa-43c7-91d3-7104eb4a6851</value>
+				<value>GUID 93f67689-8050-4b29-9ba8-70206b1d3863</value>
+				<value>GUID fe487cf8-7580-4dd1-9031-393508d679fe</value>
+				<value>GUID 1d0e64b7-c34c-4b8d-be66-933345fa0809</value>
+				<value>GUID 12c474a2-8e6d-42bb-9bef-cc568bf7b7b6</value>
+				<value>GUID 566e42d1-3321-4f9d-86cb-00c871ebc2f1</value>
+				<value>GUID 2ab898f2-8cda-4e2a-80c8-6fd7480be0fb</value>
+			</AggregatesList>
+		</IComponent>
+		<IDependency type="e">
+			<_id type="a">GUID afd27076-84aa-43c7-91d3-7104eb4a6851</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Nomer</_name>
+			<_modifiedTimeWeak type="a">4.23.2020::17:42:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.23.2020::17:42:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hfilename type="a">.\Nomer.cmpx</_hfilename>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Nomer</_hname>
+					<_hid type="a">GUID 654fcc29-dc2e-4a08-b2dd-46afacd61e66</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hid type="a">GUID 5cb4a11c-8d7a-467a-ab1f-d9429123a51a</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 93f67689-8050-4b29-9ba8-70206b1d3863</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Fizicheskoe_lico</_name>
+			<_modifiedTimeWeak type="a">4.23.2020::17:42:58</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_textRTF type="a">{\rtf1\ansi\ansicpg1251\deff0\deflang1049{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset204{\*\fname Arial;}Arial CYR;}}%0D
+\viewkind4\uc1\pard\lang1033\fs20 Klient\lang1049\f1\par%0D
+}%0D
+</_textRTF>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">4.23.2020::17:42:58</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hfilename type="a">.\Fizicheskoe_lico.cmpx</_hfilename>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Fizicheskoe_lico</_hname>
+					<_hid type="a">GUID 39bd9928-4c51-44d4-add8-7bf1a5fadbfc</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hid type="a">GUID 5cb4a11c-8d7a-467a-ab1f-d9429123a51a</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID fe487cf8-7580-4dd1-9031-393508d679fe</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Zabronirovannii_nomer</_name>
+			<_modifiedTimeWeak type="a">4.23.2020::17:59:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.23.2020::17:59:12</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hid type="a">GUID 5cb4a11c-8d7a-467a-ab1f-d9429123a51a</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hid type="a">GUID 5cb4a11c-8d7a-467a-ab1f-d9429123a51a</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 1d0e64b7-c34c-4b8d-be66-933345fa0809</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Broniryemaya_komnata</_name>
+			<_modifiedTimeWeak type="a">4.23.2020::17:59:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.23.2020::17:59:19</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Default.sbsx</_hfilename>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Broniryemaya_komnata</_hname>
+					<_hid type="a">GUID 70d3d4ec-b9c7-4b4d-bbf8-99157871fa20</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hid type="a">GUID 5cb4a11c-8d7a-467a-ab1f-d9429123a51a</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 12c474a2-8e6d-42bb-9bef-cc568bf7b7b6</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Klient</_name>
+			<_modifiedTimeWeak type="a">4.23.2020::18:1:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.23.2020::18:1:24</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Default.sbsx</_hfilename>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hname type="a">Klient</_hname>
+					<_hid type="a">GUID 99fcd690-452b-4bf3-b95d-d7d35d035147</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hid type="a">GUID 5cb4a11c-8d7a-467a-ab1f-d9429123a51a</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IFolder type="e">
+			<_id type="a">GUID 566e42d1-3321-4f9d-86cb-00c871ebc2f1</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">4.23.2020::17:34:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.23.2020::17:34:30</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Default.sbsx</_hfilename>
+							<_hname type="a">Default</_hname>
+							<_hid type="a">GUID 9488fc2a-c3da-48ae-b814-e4be9debf8c0</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 2ab898f2-8cda-4e2a-80c8-6fd7480be0fb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.23.2020::17:34:30</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">None</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 10b035df-299c-412f-b4d9-bf13716de26f</value>
+				<value>GUID 0272386e-c646-4cbf-a7eb-782fd6b0bffd</value>
+				<value>GUID f4c2098b-2a48-4328-b89e-e4ddba38a76a</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IMHyperLink type="e">
+			<_id type="a">GUID 10b035df-299c-412f-b4d9-bf13716de26f</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.23.2020::17:42:58</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Makefile</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">Zabronirovannii_nomer.mak</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IMHyperLink type="e">
+			<_id type="a">GUID 0272386e-c646-4cbf-a7eb-782fd6b0bffd</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.23.2020::17:42:58</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Main File</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">MainZabronirovannii_nomer</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IFolder type="e">
+			<_id type="a">GUID f4c2098b-2a48-4328-b89e-e4ddba38a76a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.23.2020::17:34:30</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
